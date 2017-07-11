@@ -5,6 +5,8 @@
 This repo includes a simple interface for working with vectors & metrices
 (similar to Matlab/numpy, but obviously only a small portion of their capabilities).
 
+Makefile for compilation is provided.
+
 **vec:**
 
 Interface for template vectors, defined in vec.h and implemented in vec_impl.h
